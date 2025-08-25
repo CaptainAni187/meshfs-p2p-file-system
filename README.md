@@ -1,9 +1,5 @@
 # MeshFS: A Decentralized Peer-to-Peer File System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
-[![Node.js Version](https://img.shields.io/badge/node.js-16%2B-green.svg)](https://nodejs.org/)
-
 **MeshFS** is a decentralized, resilient peer-to-peer (P2P) file system built with Python and React. It implements a custom TCP/IP protocol for efficient, chunk-based file sharing and synchronization across a distributed network of peers. This project is a practical demonstration of socket programming, distributed systems architecture, and modern desktop application development with Electron.
 
  
@@ -21,7 +17,6 @@
 - [Usage](#usage)
 - [Development](#development)
 - [Contributing](#contributing)
-- [License](#license)
 - [Author](#author)
 
 ---
@@ -153,15 +148,8 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Author
 
 **Animesh (CaptainAni187)**
 -   **GitHub**: [CaptainAni187](https://github.com/CaptainAni187)
 -   **Project Repository**: [meshfs-p2p-file-system](https://github.com/CaptainAni187/meshfs-p2p-file-system)
-
