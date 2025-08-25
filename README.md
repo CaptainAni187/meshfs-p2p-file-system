@@ -1,8 +1,12 @@
 # MeshFS: A Decentralized Peer-to-Peer File System
 
-**MeshFS** is a decentralized, resilient peer-to-peer (P2P) file system built with Python and React. It implements a custom TCP/IP protocol for efficient, chunk-based file sharing and synchronization across a distributed network of peers. This project is a practical demonstration of socket programming, distributed systems architecture, and modern desktop application development with Electron.
+[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![Desktop App](https://img.shields.io/badge/Desktop-Electron-47848F?logo=electron&logoColor=white)](https://electronjs.org/)
+[![Backend](https://img.shields.io/badge/Backend-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Networking](https://img.shields.io/badge/Protocol-TCP%2FIP-FF6B6B)](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+[![Architecture](https://img.shields.io/badge/Architecture-P2P-4ECDC4)](https://en.wikipedia.org/wiki/Peer-to-peer)
 
- 
+**MeshFS** is a decentralized, resilient peer-to-peer (P2P) file system built with Python and React. It implements a custom TCP/IP protocol for efficient, chunk-based file sharing and synchronization across a distributed network of peers. This project is a practical demonstration of socket programming, distributed systems architecture, and modern desktop application development with Electron.
 
 ---
 
